@@ -1,0 +1,9 @@
+File Janitor is a tool to discover files and clean directories
+
+Usage: file-janitor [option] [file_path]
+
+    options:
+        help        displays this help file
+	list	    lists files in selected directory
+	report	    shows summary of .tmp, .log and .py files in selected directory
+	clean	    cleans .tmp, .log and .py files in selected directory
